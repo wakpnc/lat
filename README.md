@@ -1,0 +1,2 @@
+# lat
+ini latihan aja
